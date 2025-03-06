@@ -21,7 +21,9 @@ MonoBehaviour:
   _otherAssets: []
   _prefabs:
   - {fileID: 919132149155446097, guid: 6e6eef8f3d99d0449ae049a225f13229, type: 3}
+  - {fileID: 919132149155446097, guid: 639dfdec828321e409ca4731baf79fe8, type: 3}
   - {fileID: 3464318598947185350, guid: 741a17bbe0c06294b905eb19bb4e000d, type: 3}
+  - {fileID: 3464318598947185350, guid: 6499b48deef2fdf449c5a30184b86cca, type: 3}
   _steamDescription: 
   _steamLanguage: English
   _steamPreviewPath: 

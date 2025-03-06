@@ -31,6 +31,7 @@ namespace Assets.Scripts
     {
       base.OnModLoaded();
       StructureListChange.AddStructure("testStructure", "Assets/Content/Models/testStructure.ModPrefab");
+      StructureListChange.AddStructure("testStructure2", "Assets/Content/Models/testStructure2.ModPrefab");
       StructureListChange.StartAdd();
     }
     }
