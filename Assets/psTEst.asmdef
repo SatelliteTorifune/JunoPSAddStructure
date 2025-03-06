@@ -1,0 +1,8 @@
+{
+	"name": "psTEst",
+	"references": [
+		"UnityEngine.UI",
+		"Unity.TextMeshPro",
+		"Unity.Mathematics"
+	]
+}
