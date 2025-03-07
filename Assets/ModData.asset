@@ -22,8 +22,11 @@ MonoBehaviour:
   _prefabs:
   - {fileID: 3464318598947185350, guid: 394fb6126b09699489f8b8763cafa70c, type: 3}
   - {fileID: 3464318598947185350, guid: 85e2ff208dc6a2c4e9e213ced606f8a2, type: 3}
+  - {fileID: 3464318598947185350, guid: b8dc77fa3618a464a9591665ca49570d, type: 3}
+  - {fileID: 3464318598947185350, guid: 44c51b4674e35134488bd3a1eb47dc60, type: 3}
   - {fileID: 3464318598947185350, guid: 741a17bbe0c06294b905eb19bb4e000d, type: 3}
   - {fileID: 3464318598947185350, guid: 18e1b69648dd1cd45a9e2e3896c19dd1, type: 3}
+  - {fileID: 3464318598947185350, guid: 4ccb201d704aab84ab379947b9e24d8d, type: 3}
   _steamDescription: 
   _steamLanguage: English
   _steamPreviewPath: 

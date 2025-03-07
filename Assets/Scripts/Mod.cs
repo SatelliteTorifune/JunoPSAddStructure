@@ -34,6 +34,9 @@ namespace Assets.Scripts
       StructureListChange.AddStructure("RocketFactoryOut", "Assets/Content/Models/RocketFactOut.ModPrefab");
       StructureListChange.AddStructure("deadPlane", "Assets/Content/Models/deadPlane.ModPrefab");
       StructureListChange.AddStructure("oldHouse1", "Assets/Content/Models/oldHouse1.ModPrefab");
+      StructureListChange.AddStructure("oldHouse2", "Assets/Content/Models/oldHouse2.ModPrefab");
+      StructureListChange.AddStructure("oldHouse3", "Assets/Content/Models/oldHouse3.ModPrefab");
+      StructureListChange.AddStructure("treeTypeA", "Assets/Content/Models/treeTypeA.ModPrefab");
       StructureListChange.StartAdd();
     }
     }
