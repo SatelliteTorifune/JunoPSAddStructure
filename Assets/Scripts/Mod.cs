@@ -37,6 +37,7 @@ namespace Assets.Scripts
       StructureListChange.AddStructure("oldHouse2", "Assets/Content/Models/oldHouse2.ModPrefab");
       StructureListChange.AddStructure("oldHouse3", "Assets/Content/Models/oldHouse3.ModPrefab");
       StructureListChange.AddStructure("treeTypeA", "Assets/Content/Models/treeTypeA.ModPrefab");
+      StructureListChange.AddStructure("LS", "Assets/Content/Models/LS.ModPrefab");
       StructureListChange.StartAdd();
     }
     }
