@@ -30,8 +30,10 @@ namespace Assets.Scripts
         public override void OnModLoaded()
     {
       base.OnModLoaded();
-      StructureListChange.AddStructure("testStructure", "Assets/Content/Models/testStructure.ModPrefab");
-      StructureListChange.AddStructure("testStructure2", "Assets/Content/Models/testStructure2.ModPrefab");
+      StructureListChange.AddStructure("RocketFactoryInside", "Assets/Content/Models/RocketFactoryInside.ModPrefab");
+      StructureListChange.AddStructure("RocketFactoryOut", "Assets/Content/Models/RocketFactOut.ModPrefab");
+      StructureListChange.AddStructure("deadPlane", "Assets/Content/Models/deadPlane.ModPrefab");
+      StructureListChange.AddStructure("oldHouse1", "Assets/Content/Models/oldHouse1.ModPrefab");
       StructureListChange.StartAdd();
     }
     }
