@@ -20,8 +20,13 @@ MonoBehaviour:
   _name: psTEst
   _otherAssets: []
   _prefabs:
+  - {fileID: 3464318598947185350, guid: 48895b3b5b00eea4fa1d066a0f56ec70, type: 3}
+  - {fileID: 3464318598947185350, guid: d551a982053f43e4ebd414febef414c1, type: 3}
+  - {fileID: 3464318598947185350, guid: 6ab7e25cd0cc91140b132673ff872763, type: 3}
   - {fileID: 3464318598947185350, guid: 394fb6126b09699489f8b8763cafa70c, type: 3}
-  - {fileID: 3464318598947185350, guid: 57df83d15e51e7e429633c9f7c1b6a72, type: 3}
+  - {fileID: 3464318598947185350, guid: e4d2ddb4a6e637c44aec837b7acc6059, type: 3}
+  - {fileID: 3464318598947185350, guid: a3f2b926a544ee34cb717471418082b9, type: 3}
+  - {fileID: 3464318598947185350, guid: a12ea419368226146b43fc031c65b1c8, type: 3}
   - {fileID: 3464318598947185350, guid: d217cb8ccff40ca4d9bd766c0d3d231b, type: 3}
   - {fileID: 3464318598947185350, guid: b8dc77fa3618a464a9591665ca49570d, type: 3}
   - {fileID: 3464318598947185350, guid: 44c51b4674e35134488bd3a1eb47dc60, type: 3}

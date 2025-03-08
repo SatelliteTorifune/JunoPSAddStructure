@@ -37,7 +37,12 @@ namespace Assets.Scripts
       StructureListChange.AddStructure("oldHouse2", "Assets/Content/Models/oldHouse2.ModPrefab");
       StructureListChange.AddStructure("oldHouse3", "Assets/Content/Models/oldHouse3.ModPrefab");
       StructureListChange.AddStructure("treeTypeA", "Assets/Content/Models/treeTypeA.ModPrefab");
-      StructureListChange.AddStructure("LS", "Assets/Content/Models/LS.ModPrefab");
+      StructureListChange.AddStructure("heliBody", "Assets/Content/Models/heliBody.ModPrefab");
+      StructureListChange.AddStructure("heliBladeMain", "Assets/Content/Models/heliBladeMain.ModPrefab");
+      StructureListChange.AddStructure("heliBladeVice", "Assets/Content/Models/heliBladeVice.ModPrefab");
+      StructureListChange.AddStructure("Bus", "Assets/Content/Models/Bus.ModPrefab");
+      StructureListChange.AddStructure("carCivi", "Assets/Content/Models/carCivi.ModPrefab");
+      StructureListChange.AddStructure("carMili", "Assets/Content/Models/carMili.ModPrefab");
       StructureListChange.StartAdd();
     }
     }
