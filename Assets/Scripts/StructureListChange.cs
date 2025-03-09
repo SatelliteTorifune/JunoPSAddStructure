@@ -36,6 +36,7 @@ public static class StructureListChange
         {
             codes3.Add(codes[startIndex + i]);
         }
+        
         codes.RemoveRange(startIndex+1, codes3.Count);
         for (int i = 0; i < names.Count; i++)
         {
